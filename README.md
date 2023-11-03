@@ -71,6 +71,8 @@ This Hospital Management System is open-source and released under the [Your Lice
 Please feel free to contribute to and enhance this system. If you encounter any issues or have suggestions for improvement, don't hesitate to open an issue or create a pull request. Thank you for using the Hospital Management System!
 
 
+## GUI OF PROJECT
+
 
 ![Screenshot 2023-11-04 010048](https://github.com/August2042/Hospital-Management-System/assets/94859002/6176ee71-0ec4-4528-bdf6-53af300f50a7)
 ![Screenshot 2023-11-04 010147](https://github.com/August2042/Hospital-Management-System/assets/94859002/131d304d-c56a-4e41-8d76-bb2d189980a4)
