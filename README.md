@@ -41,7 +41,7 @@ The Hospital Management System consists of the following modules:
    - Configure the database connection in the `DBConnection.java` file.
 
 3. **Run the Application:**
-   - Compile and run the `HospitalManagementSystem.java` file to start the application.
+   - Compile and run the `LoginPage.java` file to start the application.
    - Follow the on-screen instructions to navigate through different modules and perform actions.
 
 ## Project Structure
