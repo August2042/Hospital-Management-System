@@ -1,0 +1,39 @@
+CREATE DATABASE hospitalmanagementsystem;
+USE hospitalmanagementsystem;
+
+CREATE TABLE user_login (
+    id VARCHAR(200) NULL,
+    username VARCHAR(200) NULL,
+    password VARCHAR(200) NULL
+);
+
+INSERT INTO user_login (id, username, password)
+VALUES ('1', 'admin', '1234');
+
+CREATE TABLE doctor_record (
+    id VARCHAR(200) NULL,
+    DoctorName TEXT NULL,
+    Specialization TEXT NULL
+);
+
+CREATE TABLE patient_record (
+    Id VARCHAR(200) NULL,
+    Name TEXT NULL,
+    Disease TEXT NULL,
+    Date TEXT NULL,
+    Time TEXT NULL
+);
+
+CREATE TABLE laboratory_record (
+    TestId VARCHAR(200) NULL,
+    TestName VARCHAR(200) NULL,
+    TestCost DECIMAL(10, 2) NULL,
+    SampleType VARCHAR(200) NULL
+);
+
+
+CREATE TABLE medicines_record (
+    MedicineID INT NULL,
+    Name VARCHAR(255) NULL,
+    Price DECIMAL(10, 0) NULL
+);
